@@ -19,4 +19,4 @@ A charity wants to find out who is likely to donate. As a data scientist, I can 
 - Step 7. Model Tuning
 - Step 8. Preprocessing the testing data from Kaggle
 
-Read the article about this project: https://towardsdatascience.com/kaggle-competition-finding-donors-for-a-charity-with-an-auc-of-0-94-491202a77638
+# Read the article about this project: https://towardsdatascience.com/kaggle-competition-finding-donors-for-a-charity-with-an-auc-of-0-94-491202a77638
