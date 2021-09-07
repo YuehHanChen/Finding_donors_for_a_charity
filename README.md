@@ -15,8 +15,8 @@ A charity wants to find out who is likely to donate. As a data scientist, I can 
 - Step 3. Calculating the Performance of a Naive Predictor
 - Step 4. Selecting 3 Appropriate Model Candidates
 - Step 5. Creating a Training and Predicting Pipeline
-> Step 6. Initial Model Evaluation and Picking the Best Model
-> Step 7. Model Tuning
-> Step 8. Preprocessing the testing data from Kaggle
+- Step 6. Initial Model Evaluation and Picking the Best Model
+- Step 7. Model Tuning
+- Step 8. Preprocessing the testing data from Kaggle
 
 Read the article about this project: https://towardsdatascience.com/kaggle-competition-finding-donors-for-a-charity-with-an-auc-of-0-94-491202a77638
